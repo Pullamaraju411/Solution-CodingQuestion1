@@ -9,4 +9,4 @@ Language choices (Python or Scala)
 Deliver source via github or bitbucket
 Bonus points if you deliver a docker container (Dockerfile) that can be used to run the code (too lazy to install stuff that you might use)
 Pay attention to encoding# Solution-CodingQuestion1
-# Solution-CodingQuestion1
+
